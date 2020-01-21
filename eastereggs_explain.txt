@@ -1,0 +1,8 @@
+Eastereggs:
+1. In chapter 1, the player can jump on the roof and go on top of the question block. The question block will transport the player to a hidden chapter that goes straight to chapter 3. And if you fall in that chapter, you will not die; instead, you will be transported to the top of chapter 1.
+
+2. In chapter 2, the player is able to jump on the roof of the cave and skip all of the traps, going right to the end. A "superminion" is set to be on the top of the cave, so the player must throw the staff 10 times at the mob to kill it before going throw.
+
+3. In chapter 3, a hidden easter egg can be activated when the player goes throw the second pipe count from the right. The player will then be transported to a map that does nothing but to say: "hello world".
+
+4. In the guide_screen menu, the user can press the "Here Lies" text and goes to a screen that shows the credit of the developers.

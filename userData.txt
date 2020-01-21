@@ -1,0 +1,7 @@
+userName	Password	maxchapter	deathTimes
+admin	password	3	0
+Jin	fff	3	0
+Ricardo	redhat	3	0
+Qin	water	1	676
+1	1	3	1414
+new	New	1	0
